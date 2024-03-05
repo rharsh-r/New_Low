@@ -1,0 +1,25 @@
+baseURL: 
+languageCode: en-us
+title: rHarshr
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 10
+
+params:
+  assets:
+    disableHLJS: true 
+    favicon: "/assets/favicon.ico"
+
+  homeInfoParams:
+    Title: Under Construction &#128171;
+    Content: Witness the world as it gets constructed &#128149;
+  socialIcons:
+    - name: "GitHub"
+      url: "https://github.com/rharsh-r"
+    - name: "Instagram"
+      url: "https://www.instagram.com/rharsh_r/"
